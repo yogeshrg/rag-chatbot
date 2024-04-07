@@ -1,1 +1,2 @@
 - 2024-04-07 09:28:06: test(rerank): add rerank score threshold (1/3)
+- 2024-04-07 16:28:33: fix(api): add /health endpoint (2/3)
