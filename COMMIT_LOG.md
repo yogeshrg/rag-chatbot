@@ -2,3 +2,4 @@
 - 2024-04-07 16:28:33: fix(api): add /health endpoint (2/3)
 - 2024-04-07 14:43:38: refactor(rerank): add rerank score threshold (3/3)
 - 2024-04-27 20:54:42: test(retrieval): add metadata filtering (1/4)
+- 2024-04-27 13:41:44: test(retrieval): add hybrid search (BM25 + vector) (2/4)
