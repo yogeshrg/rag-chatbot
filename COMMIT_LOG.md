@@ -5,3 +5,4 @@
 - 2024-04-27 13:41:44: test(retrieval): add hybrid search (BM25 + vector) (2/4)
 - 2024-04-27 19:50:21: feat(ui): add dark mode toggle (3/4)
 - 2024-04-27 12:21:49: Merge branch 'fix/rag-chatbot-24' (4/4)
+- 2024-04-28 10:32:49: feat(embedding): batch embedding requests (1/3)
