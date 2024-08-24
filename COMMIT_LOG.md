@@ -9,3 +9,4 @@
 - 2024-04-28 11:10:11: refactor(api): implement rate limiting (2/3)
 - 2024-04-28 12:28:39: docs(retrieval): optimize chunking strategy (3/3)
 - 2024-08-24 13:21:19: docs(rerank): add reciprocal rank fusion (1/2)
+- 2024-08-24 10:29:19: chore(rerank): update dependencies (2/2)
