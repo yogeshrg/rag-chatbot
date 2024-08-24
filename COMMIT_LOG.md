@@ -8,3 +8,4 @@
 - 2024-04-28 10:32:49: feat(embedding): batch embedding requests (1/3)
 - 2024-04-28 11:10:11: refactor(api): implement rate limiting (2/3)
 - 2024-04-28 12:28:39: docs(retrieval): optimize chunking strategy (3/3)
+- 2024-08-24 13:21:19: docs(rerank): add reciprocal rank fusion (1/2)
