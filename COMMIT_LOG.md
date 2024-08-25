@@ -10,3 +10,4 @@
 - 2024-04-28 12:28:39: docs(retrieval): optimize chunking strategy (3/3)
 - 2024-08-24 13:21:19: docs(rerank): add reciprocal rank fusion (1/2)
 - 2024-08-24 10:29:19: chore(rerank): update dependencies (2/2)
+- 2024-08-25 12:14:08: feat(api): add request validation (1/4)
