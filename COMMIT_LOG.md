@@ -12,3 +12,4 @@
 - 2024-08-24 10:29:19: chore(rerank): update dependencies (2/2)
 - 2024-08-25 12:14:08: feat(api): add request validation (1/4)
 - 2024-08-25 17:58:30: test(api): add request validation (2/4)
+- 2024-08-25 17:45:23: test(api): add /health endpoint (3/4)
