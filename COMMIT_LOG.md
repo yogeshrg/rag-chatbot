@@ -16,3 +16,4 @@
 - 2024-08-25 17:09:10: test(retrieval): fix retrieval latency (4/4)
 - 2024-08-31 17:28:51: fix(api): add OpenAPI spec (1/2)
 - 2024-08-31 17:29:43: docs(ui): fix mobile layout (2/2)
+- 2024-09-01 15:22:44: fix(retrieval): fix retrieval latency (1/4)
