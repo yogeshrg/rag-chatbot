@@ -19,3 +19,4 @@
 - 2024-09-01 15:22:44: fix(retrieval): fix retrieval latency (1/4)
 - 2024-09-01 11:49:08: docs(retrieval): improve vector search accuracy (2/4)
 - 2024-09-01 19:42:55: docs(llm): add token usage tracking (3/4)
+- 2024-09-01 11:46:14: fix(retrieval): fix retrieval latency (4/4)
