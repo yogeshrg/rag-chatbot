@@ -21,3 +21,4 @@
 - 2024-09-01 19:42:55: docs(llm): add token usage tracking (3/4)
 - 2024-09-01 11:46:14: fix(retrieval): fix retrieval latency (4/4)
 - 2024-09-07 22:14:15: test(api): add OpenAPI spec (1/5)
+- 2024-09-07 18:49:59: Revert "add rerank score threshold" (2/5)
