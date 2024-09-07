@@ -23,3 +23,4 @@
 - 2024-09-07 22:14:15: test(api): add OpenAPI spec (1/5)
 - 2024-09-07 18:49:59: Revert "add rerank score threshold" (2/5)
 - 2024-09-07 19:45:55: Revert "fix retrieval latency" (3/5)
+- 2024-09-07 21:55:49: docs(llm): add structured output parsing (4/5)
