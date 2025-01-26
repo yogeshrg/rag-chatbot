@@ -28,3 +28,4 @@
 - 2025-01-26 21:53:29: feat(rerank): integrate cross-encoder reranker (1/5)
 - 2025-01-26 15:12:44: docs(llm): upgrade to llama-3.1-8b (2/5)
 - 2025-01-26 14:42:57: feat(rerank): optimize rerank batch size (3/5)
+- 2025-01-26 10:45:06: refactor(llm): add structured output parsing (4/5)
