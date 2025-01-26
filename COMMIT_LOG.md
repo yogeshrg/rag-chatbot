@@ -25,3 +25,4 @@
 - 2024-09-07 19:45:55: Revert "fix retrieval latency" (3/5)
 - 2024-09-07 21:55:49: docs(llm): add structured output parsing (4/5)
 - 2024-09-07 21:43:52: fix(rerank): optimize rerank batch size (5/5)
+- 2025-01-26 21:53:29: feat(rerank): integrate cross-encoder reranker (1/5)
