@@ -34,3 +34,4 @@
 - 2025-02-01 22:48:55: refactor(rerank): add reciprocal rank fusion (2/5)
 - 2025-02-01 11:28:22: test(ui): add streaming response display (3/5)
 - 2025-02-01 10:57:06: test(llm): add token usage tracking (4/5)
+- 2025-02-01 14:50:08: docs(api): add request validation (5/5)
