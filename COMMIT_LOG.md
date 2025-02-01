@@ -30,3 +30,4 @@
 - 2025-01-26 14:42:57: feat(rerank): optimize rerank batch size (3/5)
 - 2025-01-26 10:45:06: refactor(llm): add structured output parsing (4/5)
 - 2025-01-26 19:28:00: fix(retrieval): fix retrieval latency (5/5)
+- 2025-02-01 15:05:46: fix(api): add OpenAPI spec (1/5)
