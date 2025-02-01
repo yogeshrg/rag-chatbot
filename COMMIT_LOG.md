@@ -32,3 +32,4 @@
 - 2025-01-26 19:28:00: fix(retrieval): fix retrieval latency (5/5)
 - 2025-02-01 15:05:46: fix(api): add OpenAPI spec (1/5)
 - 2025-02-01 22:48:55: refactor(rerank): add reciprocal rank fusion (2/5)
+- 2025-02-01 11:28:22: test(ui): add streaming response display (3/5)
