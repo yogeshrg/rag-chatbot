@@ -37,3 +37,4 @@
 - 2025-02-01 14:50:08: docs(api): add request validation (5/5)
 - 2025-02-02 20:01:54: test(ui): add dark mode toggle (1/3)
 - 2025-02-02 13:41:03: test(ui): improve citation rendering (2/3)
+- 2025-02-02 10:33:56: fix(retrieval): add metadata filtering (3/3)
