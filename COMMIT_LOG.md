@@ -35,3 +35,4 @@
 - 2025-02-01 11:28:22: test(ui): add streaming response display (3/5)
 - 2025-02-01 10:57:06: test(llm): add token usage tracking (4/5)
 - 2025-02-01 14:50:08: docs(api): add request validation (5/5)
+- 2025-02-02 20:01:54: test(ui): add dark mode toggle (1/3)
