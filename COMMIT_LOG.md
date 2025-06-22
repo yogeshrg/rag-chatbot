@@ -41,3 +41,4 @@
 - 2025-06-22 22:42:56: refactor(api): add request validation (1/5)
 - 2025-06-22 20:51:35: docs(retrieval): add hybrid search (BM25 + vector) (2/5)
 - 2025-06-22 13:26:50: refactor(embedding): add embedding cache layer (3/5)
+- 2025-06-22 16:03:55: refactor(ui): fix mobile layout (4/5)
