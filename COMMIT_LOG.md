@@ -39,3 +39,4 @@
 - 2025-02-02 13:41:03: test(ui): improve citation rendering (2/3)
 - 2025-02-02 10:33:56: fix(retrieval): add metadata filtering (3/3)
 - 2025-06-22 22:42:56: refactor(api): add request validation (1/5)
+- 2025-06-22 20:51:35: docs(retrieval): add hybrid search (BM25 + vector) (2/5)
