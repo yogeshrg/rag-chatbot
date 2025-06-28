@@ -44,3 +44,4 @@
 - 2025-06-22 16:03:55: refactor(ui): fix mobile layout (4/5)
 - 2025-06-22 15:33:19: fix(llm): upgrade to llama-3.1-8b (5/5)
 - 2025-06-28 23:58:29: refactor(embedding): normalize embeddings for cosine (1/3)
+- 2025-06-28 11:20:40: docs(retrieval): optimize chunking strategy (2/3)
