@@ -46,3 +46,4 @@
 - 2025-06-28 23:58:29: refactor(embedding): normalize embeddings for cosine (1/3)
 - 2025-06-28 11:20:40: docs(retrieval): optimize chunking strategy (2/3)
 - 2025-06-28 11:31:50: fix(rerank): add reciprocal rank fusion (3/3)
+- 2025-06-29 09:34:12: docs(llm): add token usage tracking (1/5)
