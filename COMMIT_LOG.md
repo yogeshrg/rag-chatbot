@@ -50,3 +50,4 @@
 - 2025-06-29 20:15:14: Merge branch 'feature/rag-chatbot-81' (2/5)
 - 2025-06-29 13:10:04: feat(embedding): normalize embeddings for cosine (3/5)
 - 2025-06-29 19:08:21: test(llm): implement retry with backoff (4/5)
+- 2025-06-29 20:08:13: docs(embedding): switch to bge-large-en-v1.5 (5/5)
