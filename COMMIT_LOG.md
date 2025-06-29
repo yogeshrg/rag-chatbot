@@ -48,3 +48,4 @@
 - 2025-06-28 11:31:50: fix(rerank): add reciprocal rank fusion (3/3)
 - 2025-06-29 09:34:12: docs(llm): add token usage tracking (1/5)
 - 2025-06-29 20:15:14: Merge branch 'feature/rag-chatbot-81' (2/5)
+- 2025-06-29 13:10:04: feat(embedding): normalize embeddings for cosine (3/5)
