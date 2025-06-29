@@ -49,3 +49,4 @@
 - 2025-06-29 09:34:12: docs(llm): add token usage tracking (1/5)
 - 2025-06-29 20:15:14: Merge branch 'feature/rag-chatbot-81' (2/5)
 - 2025-06-29 13:10:04: feat(embedding): normalize embeddings for cosine (3/5)
+- 2025-06-29 19:08:21: test(llm): implement retry with backoff (4/5)
