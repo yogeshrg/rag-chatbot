@@ -52,3 +52,4 @@
 - 2025-06-29 19:08:21: test(llm): implement retry with backoff (4/5)
 - 2025-06-29 20:08:13: docs(embedding): switch to bge-large-en-v1.5 (5/5)
 - 2025-10-25 23:41:54: fix(rerank): optimize rerank batch size (1/2)
+- 2025-10-25 12:07:11: fix(embedding): add multi-lingual support (2/2)
