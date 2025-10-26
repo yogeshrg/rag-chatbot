@@ -53,3 +53,4 @@
 - 2025-06-29 20:08:13: docs(embedding): switch to bge-large-en-v1.5 (5/5)
 - 2025-10-25 23:41:54: fix(rerank): optimize rerank batch size (1/2)
 - 2025-10-25 12:07:11: fix(embedding): add multi-lingual support (2/2)
+- 2025-10-26 10:16:06: test(api): add /health endpoint (1/5)
