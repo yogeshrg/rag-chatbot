@@ -57,3 +57,4 @@
 - 2025-10-26 12:06:18: refactor(rerank): add reciprocal rank fusion (2/5)
 - 2025-10-26 19:19:44: docs(rerank): add rerank score threshold (3/5)
 - 2025-10-26 11:00:20: refactor(ui): add dark mode toggle (4/5)
+- 2025-10-26 14:56:30: refactor(rerank): add reciprocal rank fusion (5/5)
