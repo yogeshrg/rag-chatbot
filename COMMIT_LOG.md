@@ -54,3 +54,4 @@
 - 2025-10-25 23:41:54: fix(rerank): optimize rerank batch size (1/2)
 - 2025-10-25 12:07:11: fix(embedding): add multi-lingual support (2/2)
 - 2025-10-26 10:16:06: test(api): add /health endpoint (1/5)
+- 2025-10-26 12:06:18: refactor(rerank): add reciprocal rank fusion (2/5)
